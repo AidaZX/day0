@@ -1,0 +1,11 @@
+This project uses Python Django framework for backend and Vue.js framework for frontend.
+
+The project implement a data store and dashboard that an end user can use to upload and manage files.
+
+To run this project:
+
+cd backend
+python manage.py runserver  
+
+cd webfront
+npm run dev
